@@ -22,6 +22,7 @@ To segment the image using global thresholding, adaptive thresholding and Otsu's
 NAME : ADHITHYARAM D
 REG : 212222230008
 ```
+
 ```python
 # Load the necessary packages
 
@@ -67,6 +68,8 @@ for i in range(0,9):
     plt.imshow(cv2.cvtColor(images[i],cv2.COLOR_BGR2RGB))
     plt.axis("off")
     plt.show()
+
+
 ```
 
 <br>
