@@ -68,20 +68,20 @@ for i in range(0,9):
 ## Output
 
 ### Original Image
-<img src = "https://github.com/Adhithyaram29D/Thresholdingg/assets/119393540/39a8caf5-b2c7-44a8-b142-984e3b4c26d4" width= "400">
+<img src = "https://github.com/Adhithyaram29D/Thresholdingg/assets/119393540/39a8caf5-b2c7-44a8-b142-984e3b4c26d4" width= "500">
 
 
 ### Global Thresholding
-<img src = "https://github.com/Adhithyaram29D/Thresholdingg/assets/119393540/f126e047-3483-45d5-91b9-f66391496658" width= "400">
-<img src = "https://github.com/Adhithyaram29D/Thresholdingg/assets/119393540/5848ac1a-8b59-478b-b5c5-01e8b8eb8bdc" width= "400">
-<img src = "https://github.com/Adhithyaram29D/Thresholdingg/assets/119393540/96b86668-e0c2-49db-91d5-d729bcc15c7b" width= "400">
-<img src = "https://github.com/Adhithyaram29D/Thresholdingg/assets/119393540/5544dbc9-94d7-4d0d-b7bd-b2902f987bef" width= "400">
-<img src = "https://github.com/Adhithyaram29D/Thresholdingg/assets/119393540/93d3054f-de8d-4396-a9cb-576cff2df203" width= "400">
+<img src = "https://github.com/Adhithyaram29D/Thresholdingg/assets/119393540/f126e047-3483-45d5-91b9-f66391496658" width= "500"><br>
+<img src = "https://github.com/Adhithyaram29D/Thresholdingg/assets/119393540/5848ac1a-8b59-478b-b5c5-01e8b8eb8bdc" width= "500"><br>
+<img src = "https://github.com/Adhithyaram29D/Thresholdingg/assets/119393540/96b86668-e0c2-49db-91d5-d729bcc15c7b" width= "500"><br>
+<img src = "https://github.com/Adhithyaram29D/Thresholdingg/assets/119393540/5544dbc9-94d7-4d0d-b7bd-b2902f987bef" width= "500"><br>
+<img src = "https://github.com/Adhithyaram29D/Thresholdingg/assets/119393540/93d3054f-de8d-4396-a9cb-576cff2df203" width= "500">
 
 
 ### Adaptive Thresholding
-<img src = "https://github.com/Adhithyaram29D/Thresholdingg/assets/119393540/ddc800ab-0522-41d0-ac84-4904e8c38d29" width= "400">
-<img src = "https://github.com/Adhithyaram29D/Thresholdingg/assets/119393540/37196d8f-9ebb-454c-806c-00c42da5fe1f" width= "400">
+<img src = "https://github.com/Adhithyaram29D/Thresholdingg/assets/119393540/ddc800ab-0522-41d0-ac84-4904e8c38d29" width= "500"><br>
+<img src = "https://github.com/Adhithyaram29D/Thresholdingg/assets/119393540/37196d8f-9ebb-454c-806c-00c42da5fe1f" width= "500">
 
 
 ### Optimum Global Thesholding using Otsu's Method
