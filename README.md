@@ -68,6 +68,10 @@ for i in range(0,9):
     plt.axis("off")
     plt.show()
 ```
+
+<br>
+<br>
+
 ## Output
 
 ### Original Image
